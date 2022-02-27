@@ -110,7 +110,7 @@ const food = fooditem.map(item => {
 
 // In foodbox variable we get foodbox class to get the Element or class of our HTML Element 
 const foodbox = document.querySelectorAll('.foodbox');
-// In Menu variable we Get unOrdered list items Like All,Breakfast,Lunch....................
+// In Menu variable we Get unOrdered list items
 const menu = document.querySelectorAll('ul>li')
 // The forEach() method calls a function for each element in an array. The forEach() method is not executed for empty elements.
 
